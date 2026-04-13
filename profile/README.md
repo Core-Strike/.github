@@ -19,7 +19,7 @@ iKnow는 학습이 끊기는 순간을 놓치지 않고, 모든 수강생이 끝
 <img width="1920" alt="강사 페이지" src="https://github.com/user-attachments/assets/f2a2c682-a64c-4cb7-a2f4-c8107c7bbad7" />
 
 ## 🌠 관리자 이용 가이드
-<img width="1920" height="7701" alt="관리자" src="https://github.com/user-attachments/assets/26812364-eb27-4ba9-ad0c-61f054f6eb1c" />
+<img width="1920" alt="관리자" src="https://github.com/user-attachments/assets/26812364-eb27-4ba9-ad0c-61f054f6eb1c" />
 
 
 ## 🌠 Expected Impact
